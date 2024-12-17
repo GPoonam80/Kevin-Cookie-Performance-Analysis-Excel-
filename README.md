@@ -64,9 +64,35 @@ Key analyses performed:
 
 The following visualizations were created using Pivot Charts:
 1. **Revenue Trends**: Bar charts displaying revenue by country.
-2. **Product Performance**: Pie charts showcasing unit sales by product category.
-3. **Profit Margins**: Column charts comparing profit margins across products.
+
+![image](https://github.com/user-attachments/assets/1c0bffc7-35e8-4440-b4c1-ca6dbc626199)
+   
+
+2. **Product Performance**: Column charts showcasing unit sales by product category.
+
+![image](https://github.com/user-attachments/assets/73ca92a1-d51d-4011-b228-bdf71293dab5)
+
+ 
+3. **Profit Margins**: Pie charts comparing profit margins across products.
+
+![image](https://github.com/user-attachments/assets/039b539a-7e7a-4097-94bb-45ff1d3ba90a)
+
+
 4. **Monthly Sales Trends**: Line graphs illustrating revenue trends month-by-month.
+
+![image](https://github.com/user-attachments/assets/e8ae072b-68be-470e-acec-169f1a9c167b)
+
+
+5. **Product Performance by Market:** 📊 Analyzed regional sales patterns.
+
+   ![image](https://github.com/user-attachments/assets/157bd9a9-d424-4892-9ebc-61f46927c038)
+
+
+6. **Kevin Cookie Performance Dashboard:** Performance Dashboard reflecting key visualizations
+
+![image](https://github.com/user-attachments/assets/1f68f4f3-3f00-49f3-b2ae-c4d4d43f4101)
+
+   
 
 ---
 
