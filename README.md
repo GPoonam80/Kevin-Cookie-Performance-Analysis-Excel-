@@ -1,6 +1,3 @@
-# Kevin-Cookie-Performance-Analysis-Excel-
-Data analysis done for Kevin Cookie Company. Dataset was provided for years 2019 and 2020 in Excel format. Data cleaning and formatting was done and KPIs were identified.
-
 # 🍪 Kevin Cookie Performance Dashboard
 
 Welcome to the **Kevin Cookie Company Performance Dashboard**! 🌈 This project analyzes sales and performance data for the Kevin Cookie Company using Excel, providing actionable insights through data cleaning, Pivot Tables, and visualizations.
