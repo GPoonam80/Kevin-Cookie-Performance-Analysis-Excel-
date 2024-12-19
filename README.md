@@ -36,6 +36,8 @@ Data cleaning was performed to prepare the dataset for analysis. Key steps inclu
 The cleaned data was analyzed using:
 - **Pivot Tables** to summarize data efficiently.
 - **Pivot Charts** to visualize trends and performance metrics.
+- **Slicers** for quick filtering the data from Pivot table.
+- **Conditional Formatting** highlight specific data points.
 
 Key analyses performed:
 1. **Revenue Trends by Country**:
