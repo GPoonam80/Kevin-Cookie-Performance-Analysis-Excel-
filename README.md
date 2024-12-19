@@ -1,6 +1,8 @@
 # 🍪 Kevin Cookie Performance Dashboard
 
-Welcome to the **Kevin Cookie Company Performance Dashboard**! 🌈 This project analyzes sales and performance data for the Kevin Cookie Company using Excel, providing actionable insights through data cleaning, Pivot Tables, and visualizations.
+Welcome to the **Kevin Cookie Company Performance Dashboard**! 
+🌈 This project analyzes sales and performance data for the Kevin Cookie Company using Excel, providing actionable insights through data cleaning, Pivot Tables, and visualizations.
+An Interactive Performance Analysis Dashboard is created in Excel streamlining the presentation of critical data for decision-making.
 
 ---
 
