@@ -29,7 +29,9 @@ Data cleaning was performed to prepare the dataset for analysis. Key steps inclu
 - **Corrected data formats** for consistency.
 - **Converted the dataset into a structured table** for easier referencing.
 - **Removed ‘$’ symbols** from columns using Excel’s Find and Replace tool.
-- **Renamed columns** to improve readability and usability.
+- **Currency column** converted to numerical values.
+- **Renamed columns** to improve referencing and usability.
+- **Duplicate entries** were identified and removed.
 
 ---
 
@@ -44,7 +46,7 @@ The cleaned data was analyzed using:
 Key analyses performed:
 1. **Revenue Trends by Country**:
    - **India** generated the highest revenue.
-   - **Malaysia** and 🇵🇭 **Philippines** had the lowest revenues.
+   - **Malaysia** and **Philippines** had the lowest revenues.
 
 2. **Top-Selling Products**:
    - 🍪 **Chocolate Chip** was the highest-selling product globally with 338,243 units sold.
@@ -112,11 +114,20 @@ The following visualizations were created using Pivot Charts:
 - **INDIA** emerged as the top-performing market by revenue.
 - **Chocolate Chip** was the highest-selling product across all regions. 🍪
 - **October** was the peak sales month globally. 🎉
+- Despite **Fortune cookies’** low sales, this is the highest profit-yielding product. 
+
+
 
 ### Recommendations:
 - Increase promotions for **Chocolate Chip Cookies**, especially during holiday seasons.
 - Invest in marketing campaigns targeting **India** and the **UK**, the top-performing markets.
 - Leverage insights to optimize production schedules for peak months.
+- Focus on sales strategies to boost underperforming products like Fortune Cookies market.
+- Consider introducing new Fortune Cookie flavours or sizes to cater to different customer preferences and increase sales.
+
+
+
+
 
 ---
 
@@ -129,5 +140,7 @@ The following visualizations were created using Pivot Charts:
 ---
 
 
-Thank you for exploring the Kevin Cookie Company Dashboard! 🍪 Feel free to share feedback or contribute to the repository. Let’s bake some insights together! 📢
+Thank you for exploring the Kevin Cookie Company Dashboard! 🍪 
+Feel free to share feedback or contribute to the repository. 
+Let’s bake some insights together! 📢
 
